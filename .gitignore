@@ -1,4 +1,29 @@
+#
+# ▄▀█ █░░ ▄▀█ █▀█ █▄░█ █ ▄▀█ █▄░█
+# █▀█ █▄▄ █▀█ █▀▀ █░▀█ █ █▀█ █░▀█
+# 🅜🅞🅓🅤🅛🅔
+# 
+# (c)  2025 Alapnian <support@alapnian.com>
+# </>  Powered by XVIID <alapnian@xviid.net>
+# 
+# For the full copyright and license information, please view
+# the LICENSE file that was distributed with this source code.
+# 
+
+#-------------------------
+# Sass Files
+#-------------------------
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
+
+#-------------------------
+# Nodejs
+#-------------------------
+node_modules/
+
+#-------------------------
+# Composer
+#-------------------------
+vendor/
